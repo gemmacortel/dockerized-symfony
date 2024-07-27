@@ -1,10 +1,10 @@
 <?php
 
 
-namespace App\Domain\Entity;
+namespace App\Entity;
 
 
-class Entity
+#[\Attribute] class Entity
 {
 
 }
